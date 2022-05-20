@@ -1,4 +1,4 @@
-# Machine-Learning-Excersise
+# Machine-Learning-Scratch-Excersices
 machine learning algorithms from scratch
 # ML_Assignment_Codes
 -------------------------------------------------------------------
